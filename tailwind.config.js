@@ -11,6 +11,7 @@ xl: '1440px'
     extend: {
       colors: {
         brightRed: 'hsl(12, 88%, 59%)',
+        brightRedMax: 'hsl(0, 100%, 50%)',
         brightRedLight: 'hsl(12, 88%, 70%)',
         darkGrayishBlue: 'rgb(47, 79, 79)',
         white: 'rgb(255, 255, 255)',
