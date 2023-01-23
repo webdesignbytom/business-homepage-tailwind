@@ -14,6 +14,8 @@ xl: '1440px'
         brightRedMax: 'hsl(0, 100%, 50%)',
         brightRedLight: 'hsl(12, 88%, 70%)',
         darkGrayishBlue: 'rgb(47, 79, 79)',
+        veryLightGray: 'hsl(0, 0%, 83%)',
+        veryDarkBlue: 'hsl(252, 85%, 21%)',
         white: 'rgb(255, 255, 255)',
         black: 'rgb(0, 0, 0)'
       }
